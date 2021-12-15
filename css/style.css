@@ -13,7 +13,6 @@ main {
     padding: 0;
     margin: 0;
     display: flex;
-    background: hsl(0deg 93% 68% / 4%);
 }
 .header {
     width: 60%;
@@ -23,6 +22,9 @@ main {
 }
 .information {
     width: 55%;
+    background-image: url(../images/bg-pattern-desktop.svg);
+    background-repeat: no-repeat;
+    background-size: cover;
 }
  .information h1 {
     margin-top: 30vh;
