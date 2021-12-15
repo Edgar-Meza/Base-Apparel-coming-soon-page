@@ -33,7 +33,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solution](url solucion)
+- Solution URL: [Solution](https://edgar-meza.github.io/Base-Apparel-coming-soon-page/)
 
 ## My process
 
